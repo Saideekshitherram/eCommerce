@@ -2,9 +2,7 @@
 
 A E-Commerce Web site build using React js
 
-## Deployed Site
 
-This project was deployed with [Netlify](https://resilient-praline-d52d2d.netlify.app).
 
 ## Technologies Used
 
